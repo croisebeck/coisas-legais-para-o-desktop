@@ -1,0 +1,44 @@
+/* Fonte shell */
+stage {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-Serif;
+  font-size: 12.5pt;
+  color: #2e3436; }
+
+/* notificação OSD */
+.notification-banner {
+  font-size: 12.5pt; }
+
+/* Não sei */
+.chat-meta-message {
+  font-size: 11pt; }
+
+/* não sei */
+.end-session-dialog-app-list-item-description {
+  font-size: 12pt; }
+
+/* Não sei */
+.mount-dialog-app-list-item-name {
+  font-size: 12pt; }
+
+/* Não sei */
+.prompt-dialog-error-label {
+  font-size: 12pt; }
+
+/* Não sei */
+.prompt-dialog-info-label {
+  font-size: 12pt; }
+
+/* Não sei */
+.prompt-dialog-null-label {
+  font-size: 12pt; }
+
+/* Não sei */
+.summary-source-counter {
+  font-size: 12pt; }
+
+/* DASHBOARD */
+#dash {
+  font-size: 10pt; }
+
+
+
