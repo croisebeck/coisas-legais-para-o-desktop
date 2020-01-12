@@ -5,30 +5,96 @@
 		<year>2018</year>
 		<month>1</month>
 		<day>1</day>
-		<hour>8</hour>
+		<hour>5</hour>
 		<minute>0</minute>
 		<second>0</second>
 	</starttime>
 
 	<static>
-		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_light.jpg</file>
-		<duration>28800.0</duration>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-1-Dawn.jpg</file>
+		<duration>7200.0</duration>
 	</static>
 
 	<transition type="overlay">
-		<duration>14400.0</duration>
-		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_light.jpg</from>
-		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_dark.jpg</to>
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-1-Dawn.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-2-Morning.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_dark.jpg</file>
-		<duration>28800.0</duration>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-2-Morning.jpg</file>
+		<duration>7200.0</duration>
 	</static>
 
 	<transition type="overlay">
-		<duration>14400.0</duration>
-		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_dark.jpg</from>
-		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/catalina_light.jpg</to>
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-2-Morning.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-3-Day-Sunny.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-3-Day-Sunny.jpg</file>
+		<duration>10800.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-3-Day-Sunny.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-4-Day-Overcast.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-4-Day-Overcast.jpg</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-4-Day-Overcast.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-5-Afternoon.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-5-Afternoon.jpg</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-5-Afternoon.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-6-Evening.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-6-Evening.jpg</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-6-Evening.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-7-Dusk.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-7-Dusk.jpg</file>
+		<duration>7200.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-7-Dusk.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-8-Night.jpg</to>
+	</transition>
+
+	<static>
+		<file>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-8-Night.jpg</file>
+		<duration>10800.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>7200.0</duration>
+		<from>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-8-Night.jpg</from>
+		<to>/home/miguel/coisas-legais-para-o-desktop/24hr-Catalina/10-15-1-Dawn.jpg</to>
 	</transition>
 </background>
