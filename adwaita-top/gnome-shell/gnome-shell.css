@@ -1,8 +1,7 @@
 /* Fonte shell */
 stage {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-Serif;
-  font-size: 12.5pt;
-  color: #2e3436; }
+  font-size: 12.5pt;}
 
 /* notificação OSD */
 .notification-banner {
